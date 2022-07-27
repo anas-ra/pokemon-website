@@ -1,0 +1,94 @@
+li{
+    display: inline-block;
+    width: 160px;
+    color:black;
+}
+ul{
+    background-color:wheat;
+    position: sticky;
+    top: 0;
+}
+#kl{
+  background-color:cornsilk;
+}
+div{
+    border:2px solid black;
+    width: 29%;
+    border-radius: 10px;
+}
+#a1{
+    width: 100%;
+    border-radius: 10px;
+    
+}
+#aq{
+    border:2px solid black;
+    width: 29%;
+    border-radius: 10px;
+    height: 50px;
+    background-color:firebrick;
+}
+#a2{
+    width: 100%;
+    border-radius: 10px;
+ }
+ /* img{
+    display: inline-block; */
+    
+ }
+ #aw{
+    border:2px solid black;
+    width: 50%;
+    border-radius: 10px;
+    height: 50px;
+ }
+ #a3{
+    width: 100%;
+    border-radius: 10px;  
+ }
+ #ae{
+    border:2px solid black;
+    width: 50%;
+    border-radius: 10px;
+    height: 50px;
+ }
+ #a4{
+    width: 100%;
+    border-radius: 10px;
+ }
+ button{
+   color: red;
+   background-color: black;
+   align="left"
+ }
+ #ab{
+   width: 200px ; height: 200px;
+   background:none;
+ }
+ #ac{
+   width: 200px;height: 200px;
+ }
+ #ad{
+   width: 200px;height: 200px;
+ }
+#af{
+   width: 200px;height: 200px;
+}
+#fg{
+   background-color: wheat;
+}
+ol{
+  width: 160PX; 
+  display: inline;
+ color:white;
+  background-color: black;
+}
+#xz{
+   background-color: black;
+}
+h2{
+   color:white;
+}
+
+
+
